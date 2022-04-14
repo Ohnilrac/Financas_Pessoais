@@ -1,0 +1,10 @@
+.n{
+    font-weight: bold;
+}
+.separacao{
+    border-bottom: 1px solid #dfdfdf;
+}
+
+footer p a{
+    margin-left: 15px;
+}
